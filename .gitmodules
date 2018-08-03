@@ -1,0 +1,3 @@
+[submodule "cf_NIScope"]
+	path = cf_NIScope
+	url = https://github.com/FLLund/cf_NIScope
